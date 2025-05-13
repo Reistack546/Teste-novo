@@ -1,0 +1,10 @@
+/Seu-Projeto
+│
+├── index.html        (A página inicial do site, geralmente chamada de index.html)
+├── perfil.html       (Outra página HTML, por exemplo, um perfil)
+├── style.css         (Arquivo CSS para o estilo do site)
+├── script.js         (Arquivo JavaScript para interatividade)
+├── imagens/          (Pasta para imagens, como fotos)
+│   ├── caua.jpg      (Foto usada no site)
+├── README.md         (Informações sobre o projeto)
+└── .gitignore        (Arquivo para ignorar arquivos desnecessários no Git)
